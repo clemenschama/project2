@@ -101,7 +101,7 @@ st.title("Total home shots by team")
 plt.xlabel("teams")
 plt.ylabel("number of total shots")
 plt.xticks(rotation=90)
-st.set_option('deprecation.showPyplotGlobalUse', False)
+#st.set_option('deprecation.showPyplotGlobalUse', False)
 st.pyplot()
 
 
